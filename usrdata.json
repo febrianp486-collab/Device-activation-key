@@ -14,7 +14,14 @@
     {   
         "device_id": "44ab65812986b85d",
         "key": "XQ3RIGN4ov6HP",
-        "expirydate": "23-08-2026-16-5-1",
+        "expirydate": "28-10-2025",
         "Allowoffline": false
-    }
+        
+        
+    },
+    {   
+        "device_id": "44ab65812986b85d",
+        "key": "XQ3RIGN4ov6HP",
+        "expirydate": "28-10-2025",
+        "Allowoffline": false
 ]
