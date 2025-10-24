@@ -12,16 +12,12 @@
         "Allowoffline": false
     }, 
     {   
-        "device_id": "44ab65812986b85d",
-        "key": "XQ3RIGN4ov6HP",
-        "expirydate": "28-10-2025",
-        "Allowoffline": false
-        
-        
-    },
-    {   
         "device_id": "9f185112f6413fb3",
         "key": "FEBXZY",
         "expirydate": "28-10-2025",
-        "Allowoffline": false
+        "Allowoffline": true
+        
+        
+    }
+   
 ]
